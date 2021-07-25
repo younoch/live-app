@@ -1,0 +1,166 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "f:\\Web -Y\\live",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-07-25 08:20:58",
+            "filesum": 19,
+            "codesum": 13471,
+            "commentsum": 11,
+            "blanksum": 34,
+            "statistics": {
+                ".vue": {
+                    "code": 243,
+                    "comment": 4,
+                    "blank": 15
+                },
+                ".js": {
+                    "code": 33,
+                    "comment": 5,
+                    "blank": 8
+                },
+                ".md": {
+                    "code": 19,
+                    "comment": 1,
+                    "blank": 5
+                },
+                ".json": {
+                    "code": 13141,
+                    "comment": 0,
+                    "blank": 2
+                },
+                "": {
+                    "code": 19,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".html": {
+                    "code": 16,
+                    "comment": 1,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "git"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "live-app\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "live-app\\babel.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 13092,
+                    "comment": 0,
+                    "filename": "live-app\\package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "live-app\\package.json"
+                },
+                {
+                    "filename": "live-app\\public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 1,
+                    "filename": "live-app\\public\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 1,
+                    "filename": "live-app\\README.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "live-app\\src\\App.vue"
+                },
+                {
+                    "filename": "live-app\\src\\assets\\cric.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "live-app\\src\\assets\\logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": "live-app\\src\\components\\pages\\HelloWorld.vue"
+                },
+                {
+                    "blank": 1,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "live-app\\src\\components\\pages\\MatchList.vue"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 1,
+                    "filename": "live-app\\src\\components\\pages\\test.vue"
+                },
+                {
+                    "blank": 5,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "live-app\\src\\main.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "live-app\\src\\router\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "live-app\\src\\store\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "live-app\\src\\views\\About.vue"
+                },
+                {
+                    "blank": 5,
+                    "code": 75,
+                    "comment": 3,
+                    "filename": "live-app\\src\\views\\Home.vue"
+                }
+            ]
+        }
+    ]
+}
